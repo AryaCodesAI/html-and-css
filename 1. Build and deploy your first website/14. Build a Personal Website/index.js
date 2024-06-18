@@ -5,13 +5,13 @@
 favouriteMovieGenre("regular")
 
 // watermelon, tomato, banana, orange, avocado, blueberry
-favouriteFruit("regular")
+favouriteFruit("blueberry")
 
 // light, dark
 favouriteMode("light")
 
 // sharp, soft, round
-favouriteEdgeStyle("sharp")
+favouriteEdgeStyle("round")
 
 
 
