@@ -1,0 +1,19 @@
+/* 
+Challenge:
+Re-design the cookie widget!
+PS: Make sure you change ALL of the listed CSS properties.
+*/
+
+body {
+    background:blanchedalmond;     /* red, blue, yellow, etc */
+    color: black;            /* red, blue, yellow, etc */
+    font-size: 50px;        /* 0px - 100px and beyond */
+    font-weight: bold;   /* lighter, normal, bold  */
+    text-align: center;      /* left, center or right  */ 
+    margin-top: 25px;        /* From 0px and upwards   */
+}
+
+
+
+
+

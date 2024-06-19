@@ -1,0 +1,16 @@
+img {
+    /* Challenge: 
+    Add some space (margin) above our image!
+    Do you remember how we added spacing in the 
+    cookie widget example?
+    */
+    margin-top: 50px;
+    display: block;
+    width: 300px;
+}
+
+
+input {
+    display: block;
+    width: 400px;
+}
