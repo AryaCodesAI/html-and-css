@@ -24,7 +24,7 @@ I will do coding challenges and share my code while taking this course.
 
   ##### Welcome to the HTML & CSS course! - HTML tags - Write a news article! - The <img> tag - Nesting - Internet superpowers -> Change the BBC news! - Buttons - Input tags - Let's build Google! - Add an anchor tag to Google.com - Proper document structure - Lists  - Build a Personal Website - Deploy your Personal Website  - HTML Recap  - Anchor tags
 
--  Personal Website -
+-  Personal Website ->
   [Live Demo](https://firstpersonalwebsitedeployment.netlify.app/) -
   [Source Code](https://github.com/AryaCodesAI/html-and-css/tree/main/1.%20Build%20and%20deploy%20your%20first%20website/14.%20Build%20a%20Personal%20Website) \
     A personal website deployed on netlify app
